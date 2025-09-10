@@ -1,6 +1,6 @@
 # Machine Vision Coursework
 
-This repository contains my comprehensive coursework for the **Machine Vision** module as part of my Robotics MSc program. The project focuses on developing and comparing different computer vision approaches for automated apple detection and counting, ranging from conventional image processing techniques to state-of-the-art deep learning models.
+This repository contains my comprehensive coursework for the **Machine Vision** module in the Robotics MSc program at the University of Bristol. The project focuses on developing and comparing different computer vision approaches for automated apple detection and counting, ranging from conventional image processing techniques to state-of-the-art deep learning models.
 
 ## Project Overview
 
