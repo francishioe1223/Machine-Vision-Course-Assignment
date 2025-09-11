@@ -1,4 +1,4 @@
-# Machine Vision Coursework
+# Apple Detection Systems: Traditional Vision vs YOLO vs Faster R-CNN Comparison
 
 This repository contains my comprehensive coursework for the **Machine Vision** module in the Robotics MSc program at the University of Bristol. The project focuses on developing and comparing different computer vision approaches for automated apple detection and counting, ranging from conventional image processing techniques to state-of-the-art deep learning models.
 
